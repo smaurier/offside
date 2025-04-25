@@ -1,54 +1,98 @@
-# React + TypeScript + Vite
+# 🏟️ Offside
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Offside** est une application **React pur** conçue pour explorer et documenter l’histoire des **clubs de football oubliés**.
 
-Currently, two official plugins are available:
+Ce projet a une double ambition :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Célébrer l’histoire du football**, redonner vie aux clubs mythiques tombés dans l’oubli.
+2. **Couvrir l’intégralité des concepts avancés de React** (hooks, patterns, performances, rendering modes…) à travers un projet concret et ludique.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 👨‍💻 Démarche personnelle
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+En **intercontrat**, j'ai décidé de monter sérieusement en compétence sur **React**, puis **Next.js**.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Après avoir étudié en profondeur **React sous le capot** (grâce à la documentation et un accompagnement par **ChatGPT**), il était temps de **passer à la pratique**.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+J’ai donc demandé à ChatGPT de me **concocter une idée d'application** qui cocherait **toutes les cases théoriques** que j'avais étudiées.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+**L’objectif : apprendre en s’amusant**.  
+L’Homme apprend toujours mieux de manière ludique. J’ai donc combiné cette **montée en compétence sur React** avec l’une de mes **passions : le football**.
+
+Ainsi est né **Offside**, un projet où je relie **apprentissage technique** et **plaisir personnel**.
+
+Le nom **Offside** fait aussi écho à ma situation en **intercontrat** : momentanément “hors du terrain”, mais concentré sur mon **entraînement technique**, prêt à revenir plus fort dans le jeu.
+
+---
+
+## 🧩 Objectifs techniques
+
+Offside a été conçu pour :
+
+- **Couvrir 100% du socle React** : hooks (de base + avancés), patterns, performances, error boundaries, portals, Concurrent Mode, Suspense, etc.
+- Mettre en évidence les **limitations de React pur** (SSR, SSG, ISR, RSC) et expliquer comment ces besoins seraient couverts avec **Next.js**.
+- Créer un **dashboard complexe et évolutif** avec une gestion d’état, du routing avancé, du data fetching simulé et des optimisations de rendering.
+- **Un accent particulier sera également donné aux performances** (optimisation du rendu, virtualisation, mémoïsation) ainsi qu'à l'**accessibilité** (ARIA, contrastes, navigation clavier).
+- Apprendre **Tailwind CSS**, **TypeScript** et **SCSS** pour garantir un code structuré, typé et des styles maintenables.
+- Intégrer **Zustand** pour la gestion des filtres complexes (clubs, joueurs).
+
+---
+
+## 🔍 Stack technique
+
+Ce projet est aussi l'occasion d'apprendre **Tailwind CSS**, une technologie très demandée actuellement à Lyon, afin de compléter ma montée en compétence sur le front-end moderne.
+
+J'utilise également **TypeScript** et **SCSS** pour garantir un code structuré, typé et des styles maintenables.
+
+- **React (v18+)**
+- **React Router**
+- **Jest + React Testing Library** (tests)
+- **CSS Modules / SCSS** (styles)
+- **Chart.js / Recharts** (graphes, lazy loaded)
+- **Virtualisation (react-window)** (pour les longues listes si nécessaire)
+- **Simulated Backend** (local storage / JSON)
+- **Zustand** (state management store)
+
+---
+
+## 📚 Concepts visés
+
+### 🧠 Core Concepts React
+
+- Virtual DOM, Diffing Algorithm, Reconciliation ❌
+- Fiber Architecture, Concurrent Mode, Scheduler (startTransition, useDeferredValue) ❌
+
+### ⚛️ Hooks
+
+- useState, useEffect ❌
+- useMemo, useCallback, React.memo ❌
+- useRef, useLayoutEffect ❌
+- useReducer ❌
+- useImperativeHandle ❌
+- useDebugValue ❌
+- Custom Hooks, Hook Factories ❌
+
+### 🏛️ Architecture & Patterns
+
+- Context API (global state) ❌
+- Compound Components ❌
+- Render Props ❌
+- Higher-Order Components (HOC) ❌
+- Zustand (state management store) ❌
+
+### 🚧 Autres concepts clés
+
+- Error Boundaries (classe) ❌
+- Portals ❌
+- Strict Mode, Keys dans les listes ❌
+- Suspense, Lazy Loading ❌
+- Virtualisation de longues listes ❌
+
+### 🚫 Hors périmètre React pur (documenté)
+
+- SSR (Server-Side Rendering) ❌
+- SSG (Static Site Generation) ❌
+- ISR (Incremental Static Regeneration) ❌
+- Streaming SSR ❌
+- React Server Components (RSC) ❌
