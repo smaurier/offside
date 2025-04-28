@@ -13,9 +13,9 @@ Ce projet a une double ambition :
 
 En **intercontrat**, j'ai décidé de monter sérieusement en compétence sur **React**, puis **Next.js**.
 
-Après avoir étudié en profondeur **React sous le capot** (grâce à la documentation et un accompagnement par **ChatGPT**), il était temps de **passer à la pratique**.
+Après avoir étudié en profondeur **React sous le capot** (grâce à la documentation et un accompagnement par **ChatGPT** ( qcm, approfondissement de concepts), il était temps de **passer à la pratique**.
 
-J’ai donc demandé à ChatGPT de me **concocter une idée d'application** qui cocherait **toutes les cases théoriques** que j'avais étudiées.
+J’ai donc decidé de me **concocter une application** qui cocherait **toutes les cases théoriques** que j'avais étudiées.
 
 **L’objectif : apprendre en s’amusant**.  
 L’Homme apprend toujours mieux de manière ludique. J’ai donc combiné cette **montée en compétence sur React** avec l’une de mes **passions : le football**.
