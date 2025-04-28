@@ -2,235 +2,235 @@
   {
     "id": "uefa_wc_1961",
     "year": 1961,
-    "stadium": "Stadio Comunale",
+    "idStadium": "artemio_franchi",
     "idWinner": "fiorentina"
   },
   {
     "id": "uefa_wc_1962",
     "year": 1962,
-    "stadium": "Neckarstadion",
+    "idStadium": "neckarstadion",
     "idWinner": "atletico_madrid"
   },
   {
     "id": "uefa_wc_1963",
     "year": 1963,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "tottenham_hotspur"
   },
   {
     "id": "uefa_wc_1964",
     "year": 1964,
-    "stadium": "Bosuilstadion",
+    "idStadium": "bosuilstadion",
     "idWinner": "sporting_cp"
   },
   {
     "id": "uefa_wc_1965",
     "year": 1965,
-    "stadium": "Wembley Stadium",
+    "idStadium": "wembley_stadium",
     "idWinner": "west_ham"
   },
   {
     "id": "uefa_wc_1966",
     "year": 1966,
-    "stadium": "Hampden Park",
+    "idStadium": "hampden_park",
     "idWinner": "borussia_dortmund"
   },
   {
     "id": "uefa_wc_1967",
     "year": 1967,
-    "stadium": "Städtisches Stadion",
+    "idStadium": "max_morlock_stadion",
     "idWinner": "bayern_munich"
   },
   {
     "id": "uefa_wc_1968",
     "year": 1968,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "ac_milan"
   },
   {
     "id": "uefa_wc_1969",
     "year": 1969,
-    "stadium": "St. Jakob-Park",
+    "idStadium": "st_jakob_park",
     "idWinner": "slovan_bratislava"
   },
   {
     "id": "uefa_wc_1970",
     "year": 1970,
-    "stadium": "Praterstadion",
+    "idStadium": "ernst_happel_stadion",
     "idWinner": "manchester_city"
   },
   {
     "id": "uefa_wc_1971",
     "year": 1971,
-    "stadium": "Karaiskakis Stadium",
+    "idStadium": "karaiskakis_stadium",
     "idWinner": "chelsea"
   },
   {
     "id": "uefa_wc_1972",
     "year": 1972,
-    "stadium": "Camp Nou",
+    "idStadium": "camp_nou",
     "idWinner": "rangers"
   },
   {
     "id": "uefa_wc_1973",
     "year": 1973,
-    "stadium": "Kaftanzoglio Stadium",
+    "idStadium": "kaftanzoglio_stadium",
     "idWinner": "ac_milan"
   },
   {
     "id": "uefa_wc_1974",
     "year": 1974,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "magdeburg"
   },
   {
     "id": "uefa_wc_1975",
     "year": 1975,
-    "stadium": "St. Jakob-Park",
+    "idStadium": "st_jakob_park",
     "idWinner": "dynamo_kyiv"
   },
   {
     "id": "uefa_wc_1976",
     "year": 1976,
-    "stadium": "Heysel Stadium",
+    "idStadium": "heysel_stadium",
     "idWinner": "anderlecht"
   },
   {
     "id": "uefa_wc_1977",
     "year": 1977,
-    "stadium": "Olympisch Stadion",
+    "idStadium": "olympisch_stadion",
     "idWinner": "hamburger_sv"
   },
   {
     "id": "uefa_wc_1978",
     "year": 1978,
-    "stadium": "Parc des Princes",
+    "idStadium": "parc_des_princes",
     "idWinner": "anderlecht"
   },
   {
     "id": "uefa_wc_1979",
     "year": 1979,
-    "stadium": "St. Jakob-Park",
+    "idStadium": "st_jakob_park",
     "idWinner": "fc_barcelona"
   },
   {
     "id": "uefa_wc_1980",
     "year": 1980,
-    "stadium": "Heysel Stadium",
+    "idStadium": "heysel_stadium",
     "idWinner": "valencia_cf"
   },
   {
     "id": "uefa_wc_1981",
     "year": 1981,
-    "stadium": "Rheinstadion",
+    "idStadium": "rheinstadion",
     "idWinner": "dinamo_tbilisi"
   },
   {
     "id": "uefa_wc_1982",
     "year": 1982,
-    "stadium": "Camp Nou",
+    "idStadium": "camp_nou",
     "idWinner": "fc_barcelona"
   },
   {
     "id": "uefa_wc_1983",
     "year": 1983,
-    "stadium": "Ullevi",
+    "idStadium": "ullevi",
     "idWinner": "aberdeen"
   },
   {
     "id": "uefa_wc_1984",
     "year": 1984,
-    "stadium": "St. Jakob-Park",
+    "idStadium": "st_jakob_park",
     "idWinner": "juventus"
   },
   {
     "id": "uefa_wc_1985",
     "year": 1985,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "everton"
   },
   {
     "id": "uefa_wc_1986",
     "year": 1986,
-    "stadium": "Stade de Gerland",
+    "idStadium": "stade_de_gerland",
     "idWinner": "dynamo_kyiv"
   },
   {
     "id": "uefa_wc_1987",
     "year": 1987,
-    "stadium": "Olympic Stadium (Athens)",
+    "idStadium": "olympic_stadium_athens",
     "idWinner": "ajax"
   },
   {
     "id": "uefa_wc_1988",
     "year": 1988,
-    "stadium": "Stade de la Meinau",
+    "idStadium": "stade_de_la_meinau",
     "idWinner": "mechelen"
   },
   {
     "id": "uefa_wc_1989",
     "year": 1989,
-    "stadium": "Wankdorf Stadium",
+    "idStadium": "wankdorf_stadium",
     "idWinner": "fc_barcelona"
   },
   {
     "id": "uefa_wc_1990",
     "year": 1990,
-    "stadium": "Ullevi",
+    "idStadium": "ullevi",
     "idWinner": "sampdoria"
   },
   {
     "id": "uefa_wc_1991",
     "year": 1991,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "manchester_united"
   },
   {
     "id": "uefa_wc_1992",
     "year": 1992,
-    "stadium": "Estádio da Luz",
+    "idStadium": "estadio_da_luz",
     "idWinner": "werder_bremen"
   },
   {
     "id": "uefa_wc_1993",
     "year": 1993,
-    "stadium": "Wembley Stadium",
+    "idStadium": "wembley_stadium",
     "idWinner": "parma"
   },
   {
     "id": "uefa_wc_1994",
     "year": 1994,
-    "stadium": "Parken Stadium",
+    "idStadium": "parken_stadium",
     "idWinner": "arsenal"
   },
   {
     "id": "uefa_wc_1995",
     "year": 1995,
-    "stadium": "Parc des Princes",
+    "idStadium": "parc_des_princes",
     "idWinner": "real_zaragoza"
   },
   {
     "id": "uefa_wc_1996",
     "year": 1996,
-    "stadium": "King Baudouin Stadium",
+    "idStadium": "heysel_stadium",
     "idWinner": "psg"
   },
   {
     "id": "uefa_wc_1997",
     "year": 1997,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "fc_barcelona"
   },
   {
     "id": "uefa_wc_1998",
     "year": 1998,
-    "stadium": "Råsunda Stadium",
+    "idStadium": "rasunda_stadium",
     "idWinner": "chelsea"
   },
   {
     "id": "uefa_wc_1999",
     "year": 1999,
-    "stadium": "Villa Park",
+    "idStadium": "villa_park",
     "idWinner": "lazio"
   }
 ]

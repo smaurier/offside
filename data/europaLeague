@@ -2,319 +2,319 @@
   {
     "id": "uefa_el_1972",
     "year": 1972,
-    "stadium": "White Hart Lane",
+    "idStadium": "white_hart_lane",
     "idWinner": "tottenham_hotspur"
   },
   {
     "id": "uefa_el_1973",
     "year": 1973,
-    "stadium": "Bökelbergstadion",
+    "idStadium": "bokelbergstadion",
     "idWinner": "liverpool_fc"
   },
   {
     "id": "uefa_el_1974",
     "year": 1974,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "feyenoord"
   },
   {
     "id": "uefa_el_1975",
     "year": 1975,
-    "stadium": "Diekman Stadion",
+    "idStadium": "diekman_stadion",
     "idWinner": "borussia_monchengladbach"
   },
   {
     "id": "uefa_el_1976",
     "year": 1976,
-    "stadium": "Olympiastadion (Bruges)",
+    "idStadium": "olympiastadion_bruges",
     "idWinner": "liverpool_fc"
   },
   {
     "id": "uefa_el_1977",
     "year": 1977,
-    "stadium": "San Mamés",
+    "idStadium": "san_mames",
     "idWinner": "juventus"
   },
   {
     "id": "uefa_el_1978",
     "year": 1978,
-    "stadium": "Philips Stadion",
+    "idStadium": "philips_stadion",
     "idWinner": "psv_eindhoven"
   },
   {
     "id": "uefa_el_1979",
     "year": 1979,
-    "stadium": "Bökelbergstadion",
+    "idStadium": "bokelbergstadion",
     "idWinner": "borussia_monchengladbach"
   },
   {
     "id": "uefa_el_1980",
     "year": 1980,
-    "stadium": "Waldstadion",
+    "idStadium": "deutsche_bank_park",
     "idWinner": "eintracht_frankfurt"
   },
   {
     "id": "uefa_el_1981",
     "year": 1981,
-    "stadium": "Olympisch Stadion (Amsterdam)",
+    "idStadium": "olympisch_stadion",
     "idWinner": "ipswich_town"
   },
   {
     "id": "uefa_el_1982",
     "year": 1982,
-    "stadium": "Volksparkstadion",
+    "idStadium": "volksparkstadion",
     "idWinner": "ifk_goteborg"
   },
   {
     "id": "uefa_el_1983",
     "year": 1983,
-    "stadium": "Estádio da Luz",
+    "idStadium": "estadio_da_luz",
     "idWinner": "anderlecht"
   },
   {
     "id": "uefa_el_1984",
     "year": 1984,
-    "stadium": "White Hart Lane",
+    "idStadium": "white_hart_lane",
     "idWinner": "tottenham_hotspur"
   },
   {
     "id": "uefa_el_1985",
     "year": 1985,
-    "stadium": "Santiago Bernabéu",
+    "idStadium": "santiago_bernabeu",
     "idWinner": "real_madrid"
   },
   {
     "id": "uefa_el_1986",
     "year": 1986,
-    "stadium": "Müngersdorfer Stadion",
+    "idStadium": "rheinenergie_stadion",
     "idWinner": "real_madrid"
   },
   {
     "id": "uefa_el_1987",
     "year": 1987,
-    "stadium": "Tannadice Park",
+    "idStadium": "tannadice_park",
     "idWinner": "ifk_goteborg"
   },
   {
     "id": "uefa_el_1988",
     "year": 1988,
-    "stadium": "Ulrich-Haberland-Stadion",
+    "idStadium": "bayarena",
     "idWinner": "bayer_leverkusen"
   },
   {
     "id": "uefa_el_1989",
     "year": 1989,
-    "stadium": "Neckarstadion",
+    "idStadium": "neckarstadion",
     "idWinner": "ssc_napoli"
   },
   {
     "id": "uefa_el_1990",
     "year": 1990,
-    "stadium": "Stadio Partenio",
+    "idStadium": "stadio_partenio",
     "idWinner": "juventus"
   },
   {
     "id": "uefa_el_1991",
     "year": 1991,
-    "stadium": "Stadio Olimpico",
+    "idStadium": "stadio_olimpico",
     "idWinner": "inter_milan"
   },
   {
     "id": "uefa_el_1992",
     "year": 1992,
-    "stadium": "Olympisch Stadion (Amsterdam)",
+    "idStadium": "olympisch_stadion",
     "idWinner": "ajax"
   },
   {
     "id": "uefa_el_1993",
     "year": 1993,
-    "stadium": "Westfalenstadion",
+    "idStadium": "signal_iduna_park",
     "idWinner": "juventus"
   },
   {
     "id": "uefa_el_1994",
     "year": 1994,
-    "stadium": "Ernst-Happel-Stadion",
+    "idStadium": "ernst_happel_stadion",
     "idWinner": "inter_milan"
   },
   {
     "id": "uefa_el_1995",
     "year": 1995,
-    "stadium": "San Siro",
+    "idStadium": "san_siro",
     "idWinner": "parma"
   },
   {
     "id": "uefa_el_1996",
     "year": 1996,
-    "stadium": "Parc Lescure",
+    "idStadium": "stade_chaban_delmas",
     "idWinner": "bayern_munich"
   },
   {
     "id": "uefa_el_1997",
     "year": 1997,
-    "stadium": "San Siro",
+    "idStadium": "san_siro",
     "idWinner": "schalke_04"
   },
   {
     "id": "uefa_el_1998",
     "year": 1998,
-    "stadium": "Parc des Princes",
+    "idStadium": "parc_des_princes",
     "idWinner": "inter_milan"
   },
   {
     "id": "uefa_el_1999",
     "year": 1999,
-    "stadium": "Luzhniki Stadium",
+    "idStadium": "luzhniki_stadium",
     "idWinner": "parma"
   },
   {
     "id": "uefa_el_2000",
     "year": 2000,
-    "stadium": "Parken Stadium",
+    "idStadium": "parken_stadium",
     "idWinner": "galatasaray"
   },
   {
     "id": "uefa_el_2001",
     "year": 2001,
-    "stadium": "Westfalenstadion",
+    "idStadium": "signal_iduna_park",
     "idWinner": "liverpool_fc"
   },
   {
     "id": "uefa_el_2002",
     "year": 2002,
-    "stadium": "De Kuip",
+    "idStadium": "de_kuip",
     "idWinner": "feyenoord"
   },
   {
     "id": "uefa_el_2003",
     "year": 2003,
-    "stadium": "Estadio Olímpico de Sevilla",
+    "idStadium": "estadio_la_cartuja",
     "idWinner": "fc_porto"
   },
   {
     "id": "uefa_el_2004",
     "year": 2004,
-    "stadium": "Ullevi",
+    "idStadium": "ullevi",
     "idWinner": "valencia_cf"
   },
   {
     "id": "uefa_el_2005",
     "year": 2005,
-    "stadium": "Estádio José Alvalade",
+    "idStadium": "estadio_jose_alvalade",
     "idWinner": "cska_moscow"
   },
   {
     "id": "uefa_el_2006",
     "year": 2006,
-    "stadium": "Philips Stadion",
+    "idStadium": "philips_stadion",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2007",
     "year": 2007,
-    "stadium": "Hampden Park",
+    "idStadium": "hampden_park",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2008",
     "year": 2008,
-    "stadium": "City of Manchester Stadium",
+    "idStadium": "etihad_stadium",
     "idWinner": "zenit"
   },
   {
     "id": "uefa_el_2009",
     "year": 2009,
-    "stadium": "Şükrü Saracoğlu Stadium",
+    "idStadium": "sukru_saracoglu_stadium",
     "idWinner": "shakhtar_donetsk"
   },
   {
     "id": "uefa_el_2010",
     "year": 2010,
-    "stadium": "Volksparkstadion",
+    "idStadium": "volksparkstadion",
     "idWinner": "atletico_madrid"
   },
   {
     "id": "uefa_el_2011",
     "year": 2011,
-    "stadium": "Aviva Stadium",
+    "idStadium": "aviva_stadium",
     "idWinner": "fc_porto"
   },
   {
     "id": "uefa_el_2012",
     "year": 2012,
-    "stadium": "Arena Națională",
+    "idStadium": "arena_nationala",
     "idWinner": "atletico_madrid"
   },
   {
     "id": "uefa_el_2013",
     "year": 2013,
-    "stadium": "Amsterdam Arena",
+    "idStadium": "amsterdam_arena",
     "idWinner": "chelsea"
   },
   {
     "id": "uefa_el_2014",
     "year": 2014,
-    "stadium": "Juventus Stadium",
+    "idStadium": "allianz_stadium",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2015",
     "year": 2015,
-    "stadium": "National Stadium (Warsaw)",
+    "idStadium": "stadion_narodowy",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2016",
     "year": 2016,
-    "stadium": "St. Jakob-Park",
+    "idStadium": "st_jakob_park",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2017",
     "year": 2017,
-    "stadium": "Friends Arena",
+    "idStadium": "friends_arena",
     "idWinner": "manchester_united"
   },
   {
     "id": "uefa_el_2018",
     "year": 2018,
-    "stadium": "Parc Olympique Lyonnais",
+    "idStadium": "parc_olympique_lyonnais",
     "idWinner": "atletico_madrid"
   },
   {
     "id": "uefa_el_2019",
     "year": 2019,
-    "stadium": "Olympic Stadium (Baku)",
+    "idStadium": "olympic_stadium_baku",
     "idWinner": "chelsea"
   },
   {
     "id": "uefa_el_2020",
     "year": 2020,
-    "stadium": "Stadion Köln",
+    "idStadium": "rheinenergie_stadion",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2021",
     "year": 2021,
-    "stadium": "Stadion Gdańsk",
+    "idStadium": "stadion_gdansk",
     "idWinner": "villarreal"
   },
   {
     "id": "uefa_el_2022",
     "year": 2022,
-    "stadium": "Ramón Sánchez-Pizjuán",
+    "idStadium": "ramon_sanchez_pizjuan",
     "idWinner": "eintracht_frankfurt"
   },
   {
     "id": "uefa_el_2023",
     "year": 2023,
-    "stadium": "Puskás Aréna",
+    "idStadium": "puskas_arena",
     "idWinner": "sevilla_fc"
   },
   {
     "id": "uefa_el_2024",
     "year": 2024,
-    "stadium": "Dublin Arena",
+    "idStadium": "dublin_arena",
     "idWinner": "atalanta"
   }
 ]

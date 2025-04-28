@@ -2,19 +2,19 @@
   {
     "id": "uefa_conf_2022",
     "year": 2022,
-    "stadium": "Air Albania Stadium",
+    "idStadium": "air_albania_stadium",
     "idWinner": "as_roma"
   },
   {
     "id": "uefa_conf_2023",
     "year": 2023,
-    "stadium": "Eden Arena",
+    "idStadium": "eden_arena",
     "idWinner": "west_ham"
   },
   {
     "id": "uefa_conf_2024",
     "year": 2024,
-    "stadium": "Agia Sophia Stadium",
+    "idStadium": "agia_sophia_stadium",
     "idWinner": "olympiacos"
   }
 ]
