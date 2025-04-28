@@ -1,0 +1,281 @@
+[
+  {
+    "id": "a_s_roma",
+    "name": "A.S. Roma",
+    "country": "Italy",
+    "founded": 1927,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/AS%20ROMA%20Text%20Logo%202020%20-%202021%20.svg"
+  },
+  {
+    "id": "ac_milan",
+    "name": "AC Milan",
+    "country": "Italy",
+    "founded": 1899,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20AC%20Milan.svg"
+  },
+  {
+    "id": "afc_ajax",
+    "name": "AFC Ajax",
+    "country": "Netherlands",
+    "founded": 1900,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "arsenal_f_c",
+    "name": "Arsenal F.C.",
+    "country": "United Kingdom",
+    "founded": 1886,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "aston_villa_f_c",
+    "name": "Aston Villa F.C.",
+    "country": "United Kingdom",
+    "founded": 1874,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "borussia_dortmund",
+    "name": "Borussia Dortmund",
+    "country": "Germany",
+    "founded": 1909,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Borussia%20Dortmund%20logo.svg"
+  },
+  {
+    "id": "celtic_f_c",
+    "name": "Celtic F.C.",
+    "country": "United Kingdom",
+    "founded": 1887,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "chelsea_f_c",
+    "name": "Chelsea F.C.",
+    "country": "United Kingdom",
+    "founded": 1905,
+    "lat": 51.481722,
+    "long": -0.190917,
+    "logo": null
+  },
+  {
+    "id": "csa_steaua_bucure_ti",
+    "name": "CSA Steaua București",
+    "country": "Romania",
+    "founded": 2017,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "fc_barcelona",
+    "name": "FC Barcelona",
+    "country": "Spain",
+    "founded": 1899,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/034%20Ciutat%20Esportiva%20Joan%20Gamper%2C%20Futbol%20Club%20Barcelona%20%28Sant%20Joan%20Desp%C3%AD%29%20%28cropped%29.jpg"
+  },
+  {
+    "id": "fc_bayern_munich",
+    "name": "FC Bayern Munich",
+    "country": "Germany",
+    "founded": 1900,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Bayern%20M%C3%BCnchen%20logo%20%282017%29.svg"
+  },
+  {
+    "id": "fc_porto",
+    "name": "FC Porto",
+    "country": "Portugal",
+    "founded": 1893,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Campo%20Constitui%C3%A7%C3%A3o%202%20%28Porto%29.jpg"
+  },
+  {
+    "id": "ferencv_rosi_tc",
+    "name": "Ferencvárosi TC",
+    "country": "Hungary",
+    "founded": 1899,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ftclogo2020.png"
+  },
+  {
+    "id": "feyenoord_rotterdam",
+    "name": "Feyenoord Rotterdam",
+    "country": "Netherlands",
+    "founded": 1908,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "fk_crvena_zvezda",
+    "name": "FK Crvena zvezda",
+    "country": "Serbia",
+    "founded": 1945,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "gnk_dinamo_zagreb",
+    "name": "GNK Dinamo Zagreb",
+    "country": "Croatia",
+    "founded": 1911,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dinamo%20Zagreb%20logo.png"
+  },
+  {
+    "id": "hamburger_sv",
+    "name": "Hamburger SV",
+    "country": "Germany",
+    "founded": 1887,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamburger%20SV%20logo.svg"
+  },
+  {
+    "id": "inter_milan",
+    "name": "Inter Milan",
+    "country": "Italy",
+    "founded": 1908,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Internazionale%20Milano%202021.svg"
+  },
+  {
+    "id": "juventus_fc",
+    "name": "Juventus FC",
+    "country": "Italy",
+    "founded": 1897,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Juventus%20FC%20-%20logo%20black%20%28Italy%2C%202020%29.svg"
+  },
+  {
+    "id": "leeds_united",
+    "name": "Leeds United",
+    "country": null,
+    "founded": null,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "liverpool_f_c",
+    "name": "Liverpool F.C.",
+    "country": "United Kingdom",
+    "founded": 1892,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Liverpool%20FC%20%282024%29.png"
+  },
+  {
+    "id": "manchester_city_f_c",
+    "name": "Manchester City F.C.",
+    "country": "United Kingdom",
+    "founded": 1894,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "manchester_united_f_c",
+    "name": "Manchester United F.C.",
+    "country": "United Kingdom",
+    "founded": 1878,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "newcastle_united_f_c",
+    "name": "Newcastle United F.C.",
+    "country": "United Kingdom",
+    "founded": 1892,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "nottingham_forest_f_c",
+    "name": "Nottingham Forest F.C.",
+    "country": "United Kingdom",
+    "founded": 1865,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "olympique_de_marseille",
+    "name": "Olympique de Marseille",
+    "country": "France",
+    "founded": 1899,
+    "lat": null,
+    "long": null,
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Olympique%20Marseille%20logo.svg"
+  },
+  {
+    "id": "psv_eindhoven",
+    "name": "PSV Eindhoven",
+    "country": "Netherlands",
+    "founded": 1913,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "real_madrid_cf",
+    "name": "Real Madrid CF",
+    "country": "Spain",
+    "founded": 1902,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "real_zaragoza",
+    "name": "Real Zaragoza",
+    "country": "Spain",
+    "founded": 1932,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "s_l_benfica",
+    "name": "S.L. Benfica",
+    "country": "Portugal",
+    "founded": 1904,
+    "lat": null,
+    "long": null,
+    "logo": null
+  },
+  {
+    "id": "valencia_cf",
+    "name": "Valencia CF",
+    "country": "Spain",
+    "founded": 1919,
+    "lat": 39.4746556,
+    "long": -0.3585902,
+    "logo": null
+  }
+]
