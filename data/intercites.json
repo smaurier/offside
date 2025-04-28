@@ -1,0 +1,80 @@
+[
+  {
+    "id": "uefa_ifc_1958",
+    "year": 1958,
+    "stadium": "Camp Nou",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_ifc_1960",
+    "year": 1960,
+    "stadium": "Camp Nou",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_ifc_1961",
+    "year": 1961,
+    "stadium": "Stadio Olimpico",
+    "idWinner": "as_roma"
+  },
+  {
+    "id": "uefa_ifc_1962",
+    "year": 1962,
+    "stadium": "Camp Nou",
+    "idWinner": "valencia_cf"
+  },
+  {
+    "id": "uefa_ifc_1963",
+    "year": 1963,
+    "stadium": "Mestalla Stadium",
+    "idWinner": "valencia_cf"
+  },
+  {
+    "id": "uefa_ifc_1964",
+    "year": 1964,
+    "stadium": "Camp Nou",
+    "idWinner": "real_zaragoza"
+  },
+  {
+    "id": "uefa_ifc_1965",
+    "year": 1965,
+    "stadium": "Stadio Comunale",
+    "idWinner": "ferencvaros"
+  },
+  {
+    "id": "uefa_ifc_1966",
+    "year": 1966,
+    "stadium": "La Romareda",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_ifc_1967",
+    "year": 1967,
+    "stadium": "Elland Road",
+    "idWinner": "dinamo_zagreb"
+  },
+  {
+    "id": "uefa_ifc_1968",
+    "year": 1968,
+    "stadium": "Népstadion",
+    "idWinner": "leeds_united"
+  },
+  {
+    "id": "uefa_ifc_1969",
+    "year": 1969,
+    "stadium": "Megyeri út",
+    "idWinner": "newcastle_united"
+  },
+  {
+    "id": "uefa_ifc_1970",
+    "year": 1970,
+    "stadium": "Highbury",
+    "idWinner": "arsenal"
+  },
+  {
+    "id": "uefa_ifc_1971",
+    "year": 1971,
+    "stadium": "Elland Road",
+    "idWinner": "leeds_united"
+  }
+]

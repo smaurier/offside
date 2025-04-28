@@ -1,0 +1,296 @@
+[
+  {
+    "id": "uefa_sc_1973",
+    "year": 1973,
+    "stadium": "Olympic Stadium",
+    "idWinner": "ajax"
+  },
+  {
+    "id": "uefa_sc_1975",
+    "year": 1975,
+    "stadium": "Central Stadium",
+    "idWinner": "dynamo_kyiv"
+  },
+  {
+    "id": "uefa_sc_1976",
+    "year": 1976,
+    "stadium": "Parc Astrid",
+    "idWinner": "anderlecht"
+  },
+  {
+    "id": "uefa_sc_1977",
+    "year": 1977,
+    "stadium": "Anfield",
+    "idWinner": "liverpool_fc"
+  },
+  {
+    "id": "uefa_sc_1978",
+    "year": 1978,
+    "stadium": "Anfield",
+    "idWinner": "anderlecht"
+  },
+  {
+    "id": "uefa_sc_1979",
+    "year": 1979,
+    "stadium": "Camp Nou",
+    "idWinner": "nottingham_forest"
+  },
+  {
+    "id": "uefa_sc_1980",
+    "year": 1980,
+    "stadium": "Estadio Luis Casanova",
+    "idWinner": "valencia_cf"
+  },
+  {
+    "id": "uefa_sc_1982",
+    "year": 1982,
+    "stadium": "Villa Park",
+    "idWinner": "aston_villa"
+  },
+  {
+    "id": "uefa_sc_1983",
+    "year": 1983,
+    "stadium": "Pittodrie",
+    "idWinner": "aberdeen"
+  },
+  {
+    "id": "uefa_sc_1984",
+    "year": 1984,
+    "stadium": "Stadio Comunale",
+    "idWinner": "juventus"
+  },
+  {
+    "id": "uefa_sc_1986",
+    "year": 1986,
+    "stadium": "Stade Louis II",
+    "idWinner": "steaua_bucuresti"
+  },
+  {
+    "id": "uefa_sc_1987",
+    "year": 1987,
+    "stadium": "Estádio das Antas",
+    "idWinner": "fc_porto"
+  },
+  {
+    "id": "uefa_sc_1988",
+    "year": 1988,
+    "stadium": "Philips Stadion",
+    "idWinner": "mechelen"
+  },
+  {
+    "id": "uefa_sc_1989",
+    "year": 1989,
+    "stadium": "San Siro",
+    "idWinner": "ac_milan"
+  },
+  {
+    "id": "uefa_sc_1990",
+    "year": 1990,
+    "stadium": "Stadio Renato Dall'Ara",
+    "idWinner": "ac_milan"
+  },
+  {
+    "id": "uefa_sc_1991",
+    "year": 1991,
+    "stadium": "Old Trafford",
+    "idWinner": "manchester_united"
+  },
+  {
+    "id": "uefa_sc_1992",
+    "year": 1992,
+    "stadium": "Camp Nou",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_sc_1993",
+    "year": 1993,
+    "stadium": "San Siro",
+    "idWinner": "parma"
+  },
+  {
+    "id": "uefa_sc_1994",
+    "year": 1994,
+    "stadium": "San Siro",
+    "idWinner": "ac_milan"
+  },
+  {
+    "id": "uefa_sc_1995",
+    "year": 1995,
+    "stadium": "Olympic Stadium (Amsterdam)",
+    "idWinner": "ajax"
+  },
+  {
+    "id": "uefa_sc_1996",
+    "year": 1996,
+    "stadium": "Stadio La Favorita",
+    "idWinner": "juventus"
+  },
+  {
+    "id": "uefa_sc_1997",
+    "year": 1997,
+    "stadium": "Westfalenstadion",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_sc_1998",
+    "year": 1998,
+    "stadium": "Stade Louis II",
+    "idWinner": "chelsea"
+  },
+  {
+    "id": "uefa_sc_1999",
+    "year": 1999,
+    "stadium": "Stade Louis II",
+    "idWinner": "lazio"
+  },
+  {
+    "id": "uefa_sc_2000",
+    "year": 2000,
+    "stadium": "Stade Louis II",
+    "idWinner": "galatasaray"
+  },
+  {
+    "id": "uefa_sc_2001",
+    "year": 2001,
+    "stadium": "Stade Louis II",
+    "idWinner": "liverpool_fc"
+  },
+  {
+    "id": "uefa_sc_2002",
+    "year": 2002,
+    "stadium": "Stade Louis II",
+    "idWinner": "real_madrid"
+  },
+  {
+    "id": "uefa_sc_2003",
+    "year": 2003,
+    "stadium": "Stade Louis II",
+    "idWinner": "ac_milan"
+  },
+  {
+    "id": "uefa_sc_2004",
+    "year": 2004,
+    "stadium": "Stade Louis II",
+    "idWinner": "valencia_cf"
+  },
+  {
+    "id": "uefa_sc_2005",
+    "year": 2005,
+    "stadium": "Stade Louis II",
+    "idWinner": "liverpool_fc"
+  },
+  {
+    "id": "uefa_sc_2006",
+    "year": 2006,
+    "stadium": "Stade Louis II",
+    "idWinner": "sevilla_fc"
+  },
+  {
+    "id": "uefa_sc_2007",
+    "year": 2007,
+    "stadium": "Stade Louis II",
+    "idWinner": "ac_milan"
+  },
+  {
+    "id": "uefa_sc_2008",
+    "year": 2008,
+    "stadium": "Stade Louis II",
+    "idWinner": "zenit"
+  },
+  {
+    "id": "uefa_sc_2009",
+    "year": 2009,
+    "stadium": "Stade Louis II",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_sc_2010",
+    "year": 2010,
+    "stadium": "Stade Louis II",
+    "idWinner": "atletico_madrid"
+  },
+  {
+    "id": "uefa_sc_2011",
+    "year": 2011,
+    "stadium": "Stade Louis II",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_sc_2012",
+    "year": 2012,
+    "stadium": "Stade Louis II",
+    "idWinner": "atletico_madrid"
+  },
+  {
+    "id": "uefa_sc_2013",
+    "year": 2013,
+    "stadium": "Eden Aréna",
+    "idWinner": "bayern_munich"
+  },
+  {
+    "id": "uefa_sc_2014",
+    "year": 2014,
+    "stadium": "Cardiff City Stadium",
+    "idWinner": "real_madrid"
+  },
+  {
+    "id": "uefa_sc_2015",
+    "year": 2015,
+    "stadium": "Boris Paichadze Dinamo Arena",
+    "idWinner": "fc_barcelona"
+  },
+  {
+    "id": "uefa_sc_2016",
+    "year": 2016,
+    "stadium": "Lerkendal Stadion",
+    "idWinner": "real_madrid"
+  },
+  {
+    "id": "uefa_sc_2017",
+    "year": 2017,
+    "stadium": "Philip II Arena",
+    "idWinner": "real_madrid"
+  },
+  {
+    "id": "uefa_sc_2018",
+    "year": 2018,
+    "stadium": "A. Le Coq Arena",
+    "idWinner": "atletico_madrid"
+  },
+  {
+    "id": "uefa_sc_2019",
+    "year": 2019,
+    "stadium": "Vodafone Park",
+    "idWinner": "liverpool_fc"
+  },
+  {
+    "id": "uefa_sc_2020",
+    "year": 2020,
+    "stadium": "Puskás Aréna",
+    "idWinner": "bayern_munich"
+  },
+  {
+    "id": "uefa_sc_2021",
+    "year": 2021,
+    "stadium": "Windsor Park",
+    "idWinner": "chelsea"
+  },
+  {
+    "id": "uefa_sc_2022",
+    "year": 2022,
+    "stadium": "Olympic Stadium (Helsinki)",
+    "idWinner": "real_madrid"
+  },
+  {
+    "id": "uefa_sc_2023",
+    "year": 2023,
+    "stadium": "Karaiskakis Stadium",
+    "idWinner": "manchester_city"
+  },
+  {
+    "id": "uefa_sc_2024",
+    "year": 2024,
+    "stadium": "Stadion Narodowy",
+    "idWinner": "real_madrid"
+  }
+]

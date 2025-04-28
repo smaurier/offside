@@ -89,10 +89,31 @@ J'utilise également **TypeScript** et **SCSS** pour garantir un code structuré
 - Suspense, Lazy Loading ❌
 - Virtualisation de longues listes ❌
 
-### 🚫 Hors périmètre React pur (documenté)
+### 🚫 Hors périmètre React pur (Sera vu donc, plus tard, dans la version Next.js)
 
 - SSR (Server-Side Rendering) ❌
 - SSG (Static Site Generation) ❌
 - ISR (Incremental Static Regeneration) ❌
 - Streaming SSR ❌
 - React Server Components (RSC) ❌
+
+---
+
+## 🚧 Roadmap
+
+1. **Setup projet React + Router + Thème global**
+2. **CRUD Clubs avec modals (cocher hooks de base + Portals)**
+3. **Ajout filtres lourds (startTransition + useMemo + useCallback)**
+4. **Graphiques dynamiques (Render Props + Lazy Loading + Suspense)**
+5. **Auth fictive + sécurisation Admin (HOC + Context)**
+6. **Tests Jest + React Testing Library**
+7. **Intégrer un store Zustand pour la gestion des filtres complexes (clubs, joueurs)**
+8. **Optimisations performances (memoisation, virtualisation)**
+9. **Error Boundaries partout**
+
+---
+
+## 📝 Limitations & Pistes futures (Next.js)
+
+Certaines fonctionnalités comme le **Server-Side Rendering (SSR)**, **Incremental Static Regeneration (ISR)** ou les **React Server Components (RSC)** ne peuvent être implémentées en React pur.  
+Elles seront **documentées** et **comparées** dans le projet, avec un plan de migration potentiel vers **Next.js**.
