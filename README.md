@@ -117,3 +117,28 @@ J'utilise également **TypeScript** et **SCSS** pour garantir un code structuré
 
 Certaines fonctionnalités comme le **Server-Side Rendering (SSR)**, **Incremental Static Regeneration (ISR)** ou les **React Server Components (RSC)** ne peuvent être implémentées en React pur.  
 Elles seront **documentées** et **comparées** dans le projet, avec un plan de migration potentiel vers **Next.js**.
+
+# Modifier vos données Firestore
+
+---
+
+## 1. Via la console Firebase
+
+1. Ouvrez la **Firebase Console** → **Firestore Database** → **Documents**.
+2. Naviguez jusqu’à la collection (ex. `clubs`) puis cliquez sur le document que vous souhaitez modifier.
+3. Dans le panneau de droite, éditez directement les champs (`name`, `city`, `logo`, etc.) et cliquez sur **Publish** pour valider.
+
+> ⚠️ Ces modifications sont immédiates et se répercuteront en temps réel dans votre app grâce à `onSnapshot`.
+
+---
+
+## 2. Via un script Node.js
+
+Si vous préférez versionner vos données ou repartir d’un jeu de données à jour :
+
+1. Ouvrez le fichier `scripts/seed-firestore.cjs`.
+2. Ajustez le mapping `"data/monFichier.json": "ma_collection"` ou modifiez directement le JSON sous `data/`.
+3. Relancez la commande :
+   ```bash
+   pnpm exec node scripts/seed-firestore.cjs
+   ```
