@@ -28,7 +28,7 @@ function useClubs() {
 
 import { useTheme } from './contexts/ThemeContext';
 import { Routes, Route } from "react-router-dom";
-import ClubList from "./pages/ClubList";
+import ClubList from "./components/ClubList";
 import ClubDetail from "./pages/ClubDetail";
 
 export default function App() {

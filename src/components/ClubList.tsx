@@ -17,14 +17,14 @@ const tileLayerAttribution =
 // Composant pour ajuster la vue de la carte aux marqueurs
 function MapBounds({ clubs }: { clubs: Club[] }) {
   const map = useMap();
-  
+
   useEffect(() => {
     if (clubs.length > 0) {
-      const validClubs = clubs.filter(club => 
-        club.lat !== undefined && club.long !== undefined && 
+      const validClubs = clubs.filter(club =>
+        club.lat !== undefined && club.long !== undefined &&
         !isNaN(club.lat) && !isNaN(club.long)
       );
-      
+
       if (validClubs.length > 0) {
         const bounds = L.latLngBounds(
           validClubs.map(club => [club.lat, club.long] as L.LatLngExpression)
@@ -33,24 +33,24 @@ function MapBounds({ clubs }: { clubs: Club[] }) {
       }
     }
   }, [clubs, map]);
-  
+
   return null;
 }
 
 // Composant pour gérer un marqueur de club avec un z-index correct
-function ClubMarker({ 
-  club, 
-  isHovered, 
-  onMouseOver, 
-  onMouseOut 
-}: { 
-  club: Club, 
-  isHovered: boolean, 
-  onMouseOver: () => void, 
-  onMouseOut: () => void 
+function ClubMarker({
+  club,
+  isHovered,
+  onMouseOver,
+  onMouseOut
+}: {
+  club: Club,
+  isHovered: boolean,
+  onMouseOver: () => void,
+  onMouseOut: () => void
 }) {
   const markerRef = useRef<L.Marker>(null);
-  
+
   useEffect(() => {
     if (markerRef.current) {
       const element = markerRef.current.getElement();
@@ -63,7 +63,7 @@ function ClubMarker({
             parent.removeChild(element);
             // Le réinsérer à la fin pour qu'il apparaisse au-dessus
             parent.appendChild(element);
-            
+
             // Appliquer un z-index élevé
             element.style.zIndex = '10000';
           }
@@ -74,7 +74,7 @@ function ClubMarker({
       }
     }
   }, [isHovered]);
-  
+
   const customIcon = L.divIcon({
     className: `custom-club-icon ${isHovered ? 'custom-club-icon-hovered' : ''}`,
     html: `
@@ -158,9 +158,8 @@ export default function ClubList() {
           {clubs.map((club) => (
             <li
               key={club.id}
-              className={`border rounded overflow-hidden transition-all duration-300 ${
-                hoveredClubId === club.id ? "scale-101 shadow-md bg-blue-50" : "transform hover:scale-101 hover:shadow-lg"
-              }`}
+              className={`border rounded overflow-hidden transition-all duration-300 ${hoveredClubId === club.id ? "scale-101 shadow-md bg-blue-50" : "transform hover:scale-101 hover:shadow-lg"
+                }`}
               onMouseEnter={() => setHoveredClubId(club.id)}
               onMouseLeave={() => setHoveredClubId(null)}
             >
@@ -194,7 +193,7 @@ export default function ClubList() {
           <MapBounds clubs={clubs} />
           {clubs.map((club) => {
             const isHovered = hoveredClubId === club.id;
-            
+
             return (
               <ClubMarker
                 key={club.id}

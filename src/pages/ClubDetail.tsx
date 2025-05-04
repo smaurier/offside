@@ -1,5 +1,6 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { useClub } from "../hooks/useClub";
+import ClubTrophies from "../components/ClubTrophies";
 
 export default function ClubDetail() {
   const { id } = useParams<{ id: string }>();
@@ -7,8 +8,8 @@ export default function ClubDetail() {
   const { club, loading, error } = useClub(id!);
 
   if (loading) return <p>Chargement du club…</p>;
-  if (error)   return <p>Erreur : {error.message}</p>;
-  if (!club)   return <p>Aucun club à afficher</p>;
+  if (error) return <p>Erreur : {error.message}</p>;
+  if (!club) return <p>Aucun club à afficher</p>;
 
   return (
     <div className="space-y-4">
@@ -38,6 +39,7 @@ export default function ClubDetail() {
           Site officiel
         </a>
       </p>
+      <ClubTrophies clubId={club.id} />
       {/* Plus tard : carte, stats, filtre… */}
     </div>
   );
