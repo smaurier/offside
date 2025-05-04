@@ -1,6 +1,8 @@
 export interface Club {
   id: string;
   name: string;
+  latitude: number; // Added latitude for map markers
+  longitude: number; // Added longitude for map markers
   altName: [string];
   isoCountry: string;
   city: string;

@@ -101,7 +101,7 @@
       "instagram": "fcbayern",
       "tiktok": "@fcbayern"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_(2017).svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg"
   },
   {
     "id": "ajax",
@@ -127,7 +127,7 @@
       "instagram": "afcajax",
       "tiktok": "@afcajax"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/sco/7/79/Ajax_Amsterdam.svg"
   },
   {
     "id": "fc_barcelona",
@@ -227,7 +227,7 @@
       "instagram": "juventus",
       "tiktok": "@juventus"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/34/Juventus_FC_2017_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Juventus_FC_-_logo_black_%28Italy%2C_2017%29.svg"
   },
   {
     "id": "benfica",
@@ -253,7 +253,7 @@
       "instagram": "slbenfica",
       "tiktok": "@slbenfica"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/89/SL_Benfica_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/a/a2/SL_Benfica_logo.svg"
   },
   {
     "id": "chelsea",
@@ -331,7 +331,7 @@
       "instagram": "officialnffc",
       "tiktok": "@officialnffc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/17/Nottingham_Forest_FC_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Nottingham_Forest_FC.svg"
   },
   {
     "id": "celtic",
@@ -357,7 +357,7 @@
       "instagram": "celticfc",
       "tiktok": "@celticfc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Celtic_FC.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Celtic_fc.svg"
   },
   {
     "id": "hamburger_sv",
@@ -379,7 +379,7 @@
     "imageHero": "https://upload.wikimedia.org/wikipedia/commons/3/36/Volksparkstadion_2023.jpg",
     "marketValue": 60,
     "social": { "twitter": "@HSV", "instagram": "hsv", "tiktok": "@hsv" },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HSV-Logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
   },
   {
     "id": "steaua_bucuresti",
@@ -405,7 +405,7 @@
       "instagram": "fcsb_official",
       "tiktok": "@fcsb"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/04/FC_Steaua_București_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/c/cb/Steaua_Bucarest_logo.svg"
   },
   {
     "id": "marseille",
@@ -427,7 +427,7 @@
     "imageHero": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Stade_Velodrome_2023.jpg",
     "marketValue": 280,
     "social": { "twitter": "@OM_Officiel", "instagram": "om", "tiktok": "@om" },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Olympique_de_Marseille_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/4/43/Logo_Olympique_de_Marseille.svg"
   },
   {
     "id": "feyenoord",
@@ -453,7 +453,7 @@
       "instagram": "feyenoord",
       "tiktok": "@feyenoord"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/Feyenoord_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/sco/e/e3/Feyenoord_logo.svg"
   },
   {
     "id": "aston_villa",
@@ -501,7 +501,7 @@
     "imageHero": "https://upload.wikimedia.org/wikipedia/commons/0/07/Philips_Stadion_2023.jpg",
     "marketValue": 350,
     "social": { "twitter": "@PSV", "instagram": "psv", "tiktok": "@psv" },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/PSV_Eindhoven.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/sco/0/05/PSV_Eindhoven.svg"
   },
   {
     "id": "red_star_belgrade",
@@ -527,7 +527,7 @@
       "instagram": "crvenazvezdafk",
       "tiktok": "@crvenazvezdafk"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/Red_Star_Belgrade_logo.svg"
+    "logo": "https://cdn.prod.website-files.com/654a28c3cf92afd607769849/668fbca04693dd73afa40f09_Layer_1.svg"
   },
   {
     "id": "borussia_dortmund",
@@ -605,7 +605,7 @@
       "instagram": "sevillafc",
       "tiktok": "@sevillafc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_FC_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/8/8d/Logo_S%C3%A9ville_FC.svg"
   },
   {
     "id": "atletico_madrid",
@@ -735,7 +735,7 @@
       "instagram": "ifkgoteborg",
       "tiktok": "@ifkgoteborg"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/IFK_Göteborg_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2e/IFK_G%C3%B6teborg_%28logo%29.svg"
   },
   {
     "id": "bayer_leverkusen",
@@ -787,7 +787,7 @@
       "instagram": "eintrachtfrankfurt",
       "tiktok": "@eintrachtfrankfurt"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_Eintracht_Frankfurt_-_1951.svg"
   },
   {
     "id": "parma",
@@ -813,7 +813,7 @@
       "instagram": "parmacalcio1913",
       "tiktok": "@parmacalcio1913"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/Parma_Calcio_1913_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Parma_Associazione_Calcio_logo.svg"
   },
   {
     "id": "ssc_napoli",
@@ -839,7 +839,7 @@
       "instagram": "officialsscnapoli",
       "tiktok": "@sscnapoli"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Napoli.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg"
   },
   {
     "id": "anderlecht",
@@ -891,7 +891,7 @@
       "instagram": "fcshakhtar",
       "tiktok": "@fcshakhtar"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/FC_Shakhtar_Donetsk_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Chakhtar_Donetsk.svg"
   },
   {
     "id": "cska_moscow",
@@ -917,7 +917,7 @@
       "instagram": "pfc_cska",
       "tiktok": "@pfc_cska"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/95/PFC_CSKA_Moscow_Logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/26/PFK_CSKA_Logo.svg"
   },
   {
     "id": "zenit",
@@ -943,7 +943,7 @@
       "instagram": "fczenit",
       "tiktok": "@fczenit"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/FC_Zenit_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/FC_Zenit_1_star_2015_logo.svg"
   },
   {
     "id": "villarreal",
@@ -969,7 +969,7 @@
       "instagram": "villarrealcf",
       "tiktok": "@villarrealcf"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/5/5d/Logo_Villarreal_CF_2009.svg"
   },
   {
     "id": "valencia_cf",
@@ -995,7 +995,7 @@
       "instagram": "valenciacf",
       "tiktok": "@valenciacf"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/1/19/Logo_Valencia_CF_2019.svg"
   },
   {
     "id": "galatasaray",
@@ -1021,7 +1021,7 @@
       "instagram": "galatasaray",
       "tiktok": "@galatasaray"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Galatasaray_Logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Galatasaray_Star_Logo.png"
   },
   {
     "id": "schalke_04",
@@ -1095,7 +1095,7 @@
       "instagram": "sportingclubedeportugal",
       "tiktok": "@sportingcp"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Sporting_Clube_de_Portugal_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/1/12/Logo_Sporting_Clube_Portugal.svg"
   },
   {
     "id": "west_ham",
@@ -1147,7 +1147,7 @@
       "instagram": "fcdynamokyiv",
       "tiktok": "@fcdynamokyiv"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6d/FC_Dynamo_Kyiv_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/FC_Dynamo_Kyiv_logo.svg"
   },
   {
     "id": "dinamo_tbilisi",
@@ -1173,7 +1173,7 @@
       "instagram": "fcdinamotbilisi",
       "tiktok": "@fcdinamotbilisi"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dinamo_Tbilisi_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/e/e2/FC_Dinamo_Tbilissi_%28logo%29.svg"
   },
   {
     "id": "magdeburg",
@@ -1199,7 +1199,7 @@
       "instagram": "1fcmagdeburg",
       "tiktok": "@1fcmagdeburg"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/1._FC_Magdeburg_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg"
   },
   {
     "id": "slovan_bratislava",
@@ -1225,7 +1225,7 @@
       "instagram": "skslovanbratislava",
       "tiktok": "@skslovan"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/SK_Slovan_Bratislava_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/SK_Slovan_Bratislava_logo.svg"
   },
   {
     "id": "aberdeen",
@@ -1303,7 +1303,7 @@
       "instagram": "kvmechelen",
       "tiktok": "@kvmechelen"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d2/K.V._Mechelen_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d3/KV_Mechelen_%28logo%29.svg"
   },
   {
     "id": "lazio",
@@ -1329,7 +1329,7 @@
       "instagram": "official_sslazio",
       "tiktok": "@sslazio"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/SS_Lazio.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_SS_Lazio.svg"
   },
   {
     "id": "sampdoria",
@@ -1355,7 +1355,7 @@
       "instagram": "ucsampdoria",
       "tiktok": "@sampdoria"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/39/U.C._Sampdoria_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Logo_Sampdoria.svg"
   },
   {
     "id": "real_zaragoza",
@@ -1381,7 +1381,7 @@
       "instagram": "realzaragoza",
       "tiktok": "@realzaragoza"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Real_Zaragoza_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/1/17/Real_Zaragoza_svg_logo.svg"
   },
   {
     "id": "psg",
@@ -1433,7 +1433,7 @@
       "instagram": "rangersfc",
       "tiktok": "@rangersfc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/17/Rangers_FC.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Logo_Rangers_FC_-_2020.svg"
   },
   {
     "id": "ferencvaros",
@@ -1459,7 +1459,7 @@
       "instagram": "fradi_official",
       "tiktok": "@fradi"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ferencvárosi_TC_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0c/Logo_Ferencv%C3%A1ros_TC.svg"
   },
   {
     "id": "leeds_united",
@@ -1485,7 +1485,7 @@
       "instagram": "leedsunited",
       "tiktok": "@leedsunited"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/66/Leeds_United_FC_Logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/7/78/Logo_Leeds_United_FC.svg"
   },
   {
     "id": "newcastle_united",
@@ -1559,7 +1559,7 @@
       "instagram": "olympiacosfc",
       "tiktok": "@olympiacosfc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Olympiacos_Logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/7/75/Logo_Olympiakos_2024.svg"
   },
   {
     "id": "fiorentina",

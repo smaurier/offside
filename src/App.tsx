@@ -1,8 +1,38 @@
+import { useState, useEffect } from "react";
+import { db } from "./firebase";
+import { collection, getDocs } from "firebase/firestore";
+import type { Club } from "./types";
+
+function useClubs() {
+  const [clubs, setClubs] = useState<Club[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<Error | null>(null);
+
+  useEffect(() => {
+    async function fetchClubs() {
+      try {
+        const querySnapshot = await getDocs(collection(db, "clubs"));
+        const clubsData = querySnapshot.docs.map((doc) => ({ id: doc.id, ...(doc.data() as Omit<Club, "id">) }));
+        setClubs(clubsData);
+      } catch (err) {
+        setError(err as Error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchClubs();
+  }, []);
+
+  return { clubs, loading, error };
+}
+
 import { useTheme } from './contexts/ThemeContext';
-import { useClubs } from "./hooks/useClubs";
+import { Routes, Route } from "react-router-dom";
+import ClubList from "./pages/ClubList";
+import ClubDetail from "./pages/ClubDetail";
 
 export default function App() {
-  const { clubs, loading, error } = useClubs();
+  const { loading, error } = useClubs();
   const { theme, toggleTheme } = useTheme();
 
   if (loading) return <p>Chargement des clubs…</p>;
@@ -15,34 +45,30 @@ export default function App() {
         ${theme === 'dark' ? 'bg-gray-900 text-white' : 'bg-white text-black'}
       `}
     >
-      <h1 className="text-4xl font-bold mb-4">Offside ⚽</h1>
-      <button
-        onClick={toggleTheme}
-        className="
-          px-4 py-2 rounded shadow border
-          hover:bg-opacity-10 transition
-        "
-      >
-        {theme === 'dark' ? 'Passer en clair' : 'Passer en sombre'}
-      </button>
-      <div className="p-4">
-        <h1 className="text-2xl font-bold mb-4">Liste des Clubs</h1>
-        <ul className="space-y-2">
-          {clubs.map((club) => (
-            <li
-              key={club.id}
-              className="flex items-center space-x-3 p-2 border rounded"
-            >
-              <img
-                src={club.logo}
-                alt={`${club.name} logo`}
-                className="w-8 h-8 object-contain"
-              />
-              <span>{club.name} — {club.city}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
+      <header className="w-full p-4 bg-gray-800 text-white">
+        <nav className='flex items-center justify-between'>
+          <h1 className="text-4xl font-bold mb-4">Offside</h1>
+          <button
+            onClick={toggleTheme}
+            className="
+              px-4 py-2 rounded shadow border
+              hover:bg-opacity-10 transition
+            "
+          >
+            {theme === 'dark' ? 'Passer en clair' : 'Passer en sombre'}
+          </button>
+        </nav>
+      </header>
+
+      <Routes>
+        <Route path="/" element={<ClubList />} />
+        <Route path="/:id" element={<ClubDetail />} />
+      </Routes>
+
+      <footer className="w-full p-4 bg-gray-800 text-white mt-auto">
+        <p className="text-center">© {new Date().getFullYear()} Offside</p>
+        <p className="text-center">Tous droits réservés</p>
+      </footer>
     </div>
   );
 }
