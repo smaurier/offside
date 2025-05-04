@@ -1,5 +1,7 @@
 # 🏟️ Offside
 
+https://offside-project.netlify.app/
+
 **Offside** est une application **React pur** conçue pour explorer et documenter l’histoire des **clubs de football oubliés**.
 
 Ce projet a une double ambition :
