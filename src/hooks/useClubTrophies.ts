@@ -8,28 +8,23 @@ const COMPETITIONS = [
   {
     key: "championsLeague",
     collection: "champions_league",
-    icon: "/icons/champions-league.svg",
   },
   {
     key: "europaLeague",
     collection: "europa_league",
-    icon: "/icons/europa-league.svg",
   },
   {
     key: "cupWinnersCup",
     collection: "cup_winners_cup",
-    icon: "/icons/cup-winners-cup.svg",
   },
-  { key: "superCup", collection: "super_cup", icon: "/icons/super-cup.svg" },
+  { key: "superCup", collection: "super_cup" },
   {
     key: "interCities",
     collection: "inter_cities_fairs_cup",
-    icon: "/icons/inter-cities.svg",
   },
   {
     key: "conferenceLeague",
     collection: "conference_league",
-    icon: "/icons/conference-league.svg",
   },
 ];
 

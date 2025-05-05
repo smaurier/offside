@@ -67,17 +67,17 @@ J'utilise également **TypeScript** et **SCSS** pour garantir un code structuré
 
 ### ⚛️ Hooks
 
-- useState, useEffect ❌
+- useState, useEffect ✅
 - useMemo, useCallback, React.memo ❌
 - useRef, useLayoutEffect ❌
 - useReducer ❌
 - useImperativeHandle ❌
 - useDebugValue ❌
-- Custom Hooks, Hook Factories ❌
+- Custom Hooks, Hook Factories ✅ (ex: `useClub`, `useClubTrophies`)
 
 ### 🏛️ Architecture & Patterns
 
-- Context API (global state) ❌
+- Context API (global state) ✅ (ex: `ThemeContext` pour le thème global)
 - Compound Components ❌
 - Render Props ❌
 - Higher-Order Components (HOC) ❌
@@ -87,7 +87,7 @@ J'utilise également **TypeScript** et **SCSS** pour garantir un code structuré
 
 - Error Boundaries (classe) ❌
 - Portals ❌
-- Strict Mode, Keys dans les listes ❌
+- Strict Mode, Keys dans les listes ✅ (Strict Mode activé dans `main.tsx`)
 - Suspense, Lazy Loading ❌
 - Virtualisation de longues listes ❌
 
